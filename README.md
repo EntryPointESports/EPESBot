@@ -1,6 +1,6 @@
-# RSCBot
+# EPESBot
 
-RSCBot is a collection of cogs written in Python that can be installed and used with the [Red Discord Bot](https://docs.discord.red/en/stable/index.html). These cogs are primarily written for use within [RSC (Rocket Soccar Confederation)](https://www.rocketsoccarconfederation.com/), a 3v3 Rocket League Amateur League that runs through [Discord](https://discord.gg/Q6RkvYm).
+EPESBot is a fork of RSCBot, which is a collection of cogs written in Python that can be installed and used with the [Red Discord Bot](https://docs.discord.red/en/stable/index.html). These cogs are primarily written for use within [RSC (Rocket Soccar Confederation)](https://www.rocketsoccarconfederation.com/), a 3v3 Rocket League Amateur League that runs through [Discord](https://discord.gg/Q6RkvYm).
 
 ## Installation
 
